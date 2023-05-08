@@ -92,7 +92,7 @@ def getPeople(eventName):
 import logging
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = '5858548522:AAGDyZ92d-GoiD6r947MunHbV1PAl37bmzs'
+API_TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 
